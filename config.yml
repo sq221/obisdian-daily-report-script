@@ -1,0 +1,6 @@
+Config:
+  VaultPath: "" # The path to your target Obsidian vault
+  TaskDir: ""  # The relative path to the directory containing task files in your vault
+  FileToExclude: [] # Files you don't want the script to analyze in TaskDir
+  ReportPath: "" # The relative path to the file storing daily report in your vault
+  
