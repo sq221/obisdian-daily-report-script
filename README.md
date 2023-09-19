@@ -24,7 +24,7 @@ Config:
   ReportPath: "" # The relative path to the file storing daily report in your vault
 ``` 
 
-Before fill in the file, first organize the files in your vault. The script only analyze files in the `TaskDir` and exclude files in `FileToExclude`. It finds all task lines start with `- [ ]` or `- [x]`. So you may create task files specifically containing tasks in the `TaskDir` directory. The plugin [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) is recommanded.
+Before fill in the file, first organize the files in your vault. The script only analyze files in the `TaskDir` and exclude files in `FileToExclude`. It finds all task lines start with `- [ ]` or `- [x]`. So you may create task files specifically containing tasks in the `TaskDir` directory. The plugin [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) is recommended.
 
 After filling in the `config.yml`, run the script to generate initial `data.json` file.
 
