@@ -38,6 +38,7 @@ After the initialization, the rest usage can be fully automatic. You just need t
 
 In the template there is a {remark} blank. If you want to say something, just use the Diary core plugin in Obsidian and store the file in the vault's root path. The script will copy the content into your report and delete the diary file. You need to ensure the diary file must name by `YYYY-MM-DD`, in other words, the initial setting of the core plugin.
 
+For now, the remained tasks displayed in template are random 5 or less tasks unsorted. This feature is in future developing plan.
 
 # Develop Plan
 
@@ -46,6 +47,7 @@ I will improve the script according to issues. In the future, I may add features
 - DIY template
 - Tag analysis
 - AI comment on your day
+- Sort your remaining tasks
 - ...
 
 Please give me feedback by issues.
